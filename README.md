@@ -4,8 +4,8 @@
 - 🌱 I’m reading electronics & IT in the faculty of Science 
 
 ### Contact with me
-- 💬 Ask me about https://github.com/shihanmilinda7/shihanmilinda7/issues
-
+- 💬 Ask me about
+- 
 [<img align="left" alt="MilindaRuberu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MilindaRuberu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="MilindaRuberu | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]

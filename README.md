@@ -7,8 +7,9 @@
 - 💬 Ask me about https://github.com/shihanmilinda7/shihanmilinda7/issues
 
 [<img align="left" alt="MilindaRuberu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MilindaRuberu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="MilindaRuberu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="MilindaRuberu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="MilindaRuberu | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="MilindaRuberu | GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 <br />
 ### Languages and Tools:
 
@@ -45,3 +46,4 @@
 [linkedin]: https://www.linkedin.com/in/milinda-ruberu-322060175/
 [facebook]: https://www.facebook.com/shihan.milinda/
 [gmail]: shihanmilinda7@gmail.com
+[github]:https://github.com/shihanmilinda7/shihanmilinda7/issues

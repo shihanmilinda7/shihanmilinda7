@@ -1,7 +1,7 @@
 ### Hi there, I'm Milinda Ruberu 👋
 
-- 🔭 I’m a final year student of University of Colombo
-- 🌱 I’m reading electronics & IT in the faculty of Science 
+- 🔭 Bachelor of Science Honours in Electronics and Information Technology
+- 🌱 Faculty of Science, University of Colombo
 
 ### Contact with me
 
